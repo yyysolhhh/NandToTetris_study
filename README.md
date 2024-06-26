@@ -8,15 +8,15 @@
 - 강의:  
     [build a modern computer from first principles: from nand to tetris (project-centered course)](https://www.coursera.org/learn/build-a-computer)  
 
-    | Week | Module | 강의제목 | 수강완료일 |
-    |:-:|:-:|:-:|:-:|
-    | 1 | 0 | The Nand to Tetris journey | 240626 |
-    | 1 | 1 | Boolean Logic | |
-    | 2 | 2 | Boolean Arithmetic | |
-    | 3 | 3 | Memory | |
-    | 4 | 4 | Machine Language | |
-    | 5 | 5 | Computer Architecture | |
-    | 6 | 6 | Assembler Roadmap | |
+    | Week | Module | 강의제목 | 수강완료일 | 과제완성 |
+    |:-:|:-:|:-:|:-:|:-:|
+    | 1 | 0 | The Nand to Tetris journey | 240626 | ✔️  |
+    | 1 | 1 | Boolean Logic | | |
+    | 2 | 2 | Boolean Arithmetic | | |
+    | 3 | 3 | Memory | | |
+    | 4 | 4 | Machine Language | | |
+    | 5 | 5 | Computer Architecture | | |
+    | 6 | 6 | Assembler Roadmap | | |
 
     [build a modern computer from first principles: nand to tetris part ii (project-centered course)](https://www.coursera.org/learn/nand2tetris2)
 
